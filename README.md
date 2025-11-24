@@ -1,7 +1,8 @@
 # Console Chat Application
 
 A simple console-based chat application that simulates a conversation with a bot. The application provides a WhatsApp-like interface directly in the terminal and maintains chat history for future reference.
-Overview
+
+## Overview
 
 This project offers an engaging and interactive messaging experience through the console. It includes message timestamps, persistent storage, and a clean display format that makes chatting smooth and intuitive.
 
@@ -81,6 +82,6 @@ Bot responses are loaded from:
 ~/.chatapp/messages.json
 For any queries or support, please contact:
 
-GitHub: https://github.com/
+GitHub: https://github.com/Abhinav9068
 
 Email: abhinavmaurya9c@gmail.com
