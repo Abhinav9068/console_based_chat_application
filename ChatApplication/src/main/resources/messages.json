@@ -1,0 +1,11 @@
+{
+    "responses": {
+        "default": "I'm not sure how to respond to that.",
+        "hello": "Hello! How can I help you today?",
+        "hi": "Hi there! How can I assist you?",
+        "bye": "Goodbye! Have a great day!",
+        "how are you": "I'm doing well, thank you for asking!",
+        "what's your name": "I'm ChatBot, nice to meet you!",
+        "help": "I can chat with you! Just type your message and I'll respond. Type 'exit' to end the chat."
+    }
+}

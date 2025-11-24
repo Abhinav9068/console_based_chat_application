@@ -1,0 +1,15 @@
+com\chatapp\dao\UserRepository.class
+com\chatapp\exception\DataAccessException.class
+com\chatapp\util\DatabaseConnectionManager.class
+com\chatapp\controller\LogoutServlet.class
+com\chatapp\model\Message.class
+com\chatapp\dao\MessageRepository.class
+com\chatapp\model\Admin.class
+com\chatapp\controller\RegisterServlet.class
+com\chatapp\model\Guest.class
+com\chatapp\model\User.class
+com\chatapp\dao\JdbcMessageDAO.class
+com\chatapp\controller\ChatServlet.class
+com\chatapp\controller\LoginServlet.class
+com\chatapp\dao\JdbcUserDAO.class
+com\chatapp\service\SessionManager.class
