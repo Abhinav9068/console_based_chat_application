@@ -7,53 +7,54 @@ This project offers an engaging and interactive messaging experience through the
 
 Features
 
-Interactive console-based chat interface
+*Interactive console-based chat interface
 
-Built-in bot that responds to user messages
+*Built-in bot that responds to user messages
 
-Persistent chat history storage
+*Persistent chat history storage
 
-Timestamp for every message
+*Timestamp for every message
 
-Clean and organized message formatting
+*Clean and organized message formatting
 
-Command support for managing chat history
+*Command support for managing chat history
 
-Simple and user-friendly interface
+*Simple and user-friendly interface
 
 Technical Stack
 
-Java 11 or higher
+*Java 11 or higher
 
-Maven (project build and dependency management)
+*Maven (project build and dependency management)
 
-Gson (JSON handling)
+*Gson (JSON handling)
 
 Setup Instructions
 
-Ensure Java 11 or above is installed
+*Ensure Java 11 or above is installed
 
-Install Maven
+*Install Maven
 
-Clone the repository
+*Clone the repository
 
-Build the project using Maven:
+*Build the project using Maven:
 mvn clean install
 
-Run the application:
+*Run the application:
 mvn exec:java -Dexec.mainClass="com.chatapp.ui.ChatUI"
 
 Usage
 
-Launch the application and start chatting with the bot.
+*Launch the application and start chatting with the bot.
 
 Available commands:
 
-Type exit to end the chat session
+*Type exit to end the chat session
 
-Type clear history to delete stored chat history
+*Type clear history to delete stored chat history
 
-Type help to display available commands
+
+*Type help to display available commands
 
 Project Structure
 
