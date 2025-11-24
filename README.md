@@ -1,11 +1,11 @@
-Console Chat Application
+# Console Chat Application
 
 A simple console-based chat application that simulates a conversation with a bot. The application provides a WhatsApp-like interface directly in the terminal and maintains chat history for future reference.
 Overview
 
 This project offers an engaging and interactive messaging experience through the console. It includes message timestamps, persistent storage, and a clean display format that makes chatting smooth and intuitive.
 
-Features
+## Features
 
 *Interactive console-based chat interface
 
@@ -21,7 +21,7 @@ Features
 
 *Simple and user-friendly interface
 
-Technical Stack
+## Technical Stack
 
 *Java 11 or higher
 
@@ -29,7 +29,7 @@ Technical Stack
 
 *Gson (JSON handling)
 
-Setup Instructions
+## Setup Instructions
 
 *Ensure Java 11 or above is installed
 
@@ -43,11 +43,11 @@ mvn clean install
 *Run the application:
 mvn exec:java -Dexec.mainClass="com.chatapp.ui.ChatUI"
 
-Usage
+## Usage
 
 *Launch the application and start chatting with the bot.
 
-Available commands:
+## Available commands:
 
 *Type exit to end the chat session
 
@@ -56,7 +56,7 @@ Available commands:
 
 *Type help to display available commands
 
-Project Structure
+## Project Structure
 
 src/ — Application source code
 
@@ -72,10 +72,15 @@ target/ — Build outputs
 
 pom.xml — Maven configuration
 
-Data Storage
+## Data Storage
 
 Chat history is stored at:
 ~/.chatapp/chat_history.txt
 
 Bot responses are loaded from:
 ~/.chatapp/messages.json
+For any queries or support, please contact:
+
+GitHub: https://github.com/
+
+Email: abhinavmaurya9c@gmail.com
