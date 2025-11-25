@@ -1,0 +1,27 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "ChatUI",
+        "request": "launch",
+        "mainClass": "com.chatapp.ui.ChatUI",
+        "projectName": "ChatApplication_57233e33"
+    },
+    {
+        "type": "java",
+        "name": "ChatApp",
+        "request": "launch",
+        "mainClass": "com.chatapp.ui.ChatApp",
+        "projectName": "ChatApplication_57233e33"
+    },
+    {
+        "type": "java",
+        "name": "Launch ChatApp",
+        "request": "launch",
+        "mainClass": "com.chatapp.ui.ChatApp",
+        "projectName": "ChatApplication",
+        "vmArgs": "--module-path lib --add-modules javafx.controls,javafx.fxml"
+    }
+]
+}
